@@ -3,15 +3,14 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/MauroDeBruyn/">
+    <img alt="MauroDeBruyn - tempateProject" src="https://img.shields.io/static/v1?label=MauroDeBruyn&message=temlateProject&color=purple&logo=github"></a>
+  </a>
 
   <img alt="Stars" src="https://img.shields.io/github/stars/MauroDeBruyn/REPO-NAME?style=social">
   
   <a href="https://github.com/MauroDeBruyn/REPO-NAME">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MauroDeBruyn/REPO-NAME">
-  </a>
-
-  <a href="https://github.com/MauroDeBruyn/">
-    <img alt="made by Mauro De Bruyn" src="https://img.shields.io/badge/made%20by-Mauro%20De%20Bruyn-ff69b4">
   </a>
 </p>
 
